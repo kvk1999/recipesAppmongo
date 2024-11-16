@@ -49,9 +49,9 @@ Follow these steps to set up the project locally:
   "instructions": "Cook spaghetti. Mix eggs and cheese. Cook pancetta. Combine all.",
   "category": "Italian"
 }
-
+```
 * Response:
-
+```
 {
   "_id": "631f1c8f4a8e4a9e8c12b97b",
   "name": "Spaghetti Carbonara",
