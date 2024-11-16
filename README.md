@@ -42,13 +42,14 @@ Follow these steps to set up the project locally:
 
 * POST /
 * Request Body (JSON):
-
+```
 {
   "name": "Spaghetti Carbonara",
   "ingredients": ["Spaghetti", "Eggs", "Parmesan Cheese", "Pancetta", "Pepper"],
   "instructions": "Cook spaghetti. Mix eggs and cheese. Cook pancetta. Combine all.",
   "category": "Italian"
 }
+
 * Response:
 
 {
@@ -60,12 +61,13 @@ Follow these steps to set up the project locally:
   "createdAt": "2024-11-15T14:30:00.000Z",
   "__v": 0
 }
+```
+
 ### 2. Retrieve All Recipes
 
 * GET /
 * Response:
-
-[
+```
   {
     "_id": "631f1c8f4a8e4a9e8c12b97b",
     "name": "Spaghetti Carbonara",
@@ -75,12 +77,13 @@ Follow these steps to set up the project locally:
     "createdAt": "2024-11-15T14:30:00.000Z",
     "__v": 0
   }
-]
+```
+
 ### 3. Retrieve a Recipe by ID
 
 * GET /:id
 * Response:
-
+```
 {
   "_id": "631f1c8f4a8e4a9e8c12b97b",
   "name": "Spaghetti Carbonara",
@@ -90,11 +93,13 @@ Follow these steps to set up the project locally:
   "createdAt": "2024-11-15T14:30:00.000Z",
   "__v": 0
 }
+```
+
 ### 4. Update a Recipe
 
 * PUT /:id
 * Request Body (JSON):
-
+```
 {
   "name": "Updated Recipe Name",
   "instructions": "Updated instructions."
@@ -111,15 +116,17 @@ Follow these steps to set up the project locally:
   "createdAt": "2024-11-15T14:30:00.000Z",
   "__v": 0
 }
+```
+
 ### 5. Delete a Recipe
 
 * DELETE /:id
 * Response:
-
+```
 {
   "message": "Recipe deleted successfully"
 }
-
+```
 
 ### Example Request in Postman
 * Method: GET
@@ -128,7 +135,7 @@ Follow these steps to set up the project locally:
 * Content-Type: application/json
 
 ### Example Response
-
+```
   {
     "_id": "631f1c8f4a8e4a9e8c12b97b",
     "name": "Spaghetti Carbonara",
@@ -147,6 +154,5 @@ Follow these steps to set up the project locally:
     "createdAt": "2024-11-15T14:45:00.000Z",
     "__v": 0
   }
-
-
+```
 [POSTMAN API Documentation URL: ](https://documenter.getpostman.com/view/38564233/2sAYBPkZKC#a6521115-bfec-4fea-8eb8-75a6dc19c513)
