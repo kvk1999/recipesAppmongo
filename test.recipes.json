@@ -1,0 +1,949 @@
+[{
+  "_id": {
+    "$oid": "6737435057a304197c9489fa"
+  },
+  "name": "Spaghetti Carbonara",
+  "ingredients": [
+    "Spaghetti",
+    "Eggs",
+    "Parmesan Cheese",
+    "Pancetta",
+    "Pepper"
+  ],
+  "instructions": "Boil pasta. Cook pancetta in a pan. Mix eggs and cheese, combine with pasta, and season with pepper.",
+  "category": "Italian",
+  "createdAt": {
+    "$date": "2024-11-15T10:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737437f57a304197c9489fd"
+  },
+  "name": "Chicken Tikka Masala",
+  "ingredients": [
+    "Chicken",
+    "Yogurt",
+    "Tomato Paste",
+    "Garlic",
+    "Spices"
+  ],
+  "instructions": "Marinate chicken with yogurt and spices. Grill until charred. Cook in a tomato-based sauce.",
+  "category": "Indian",
+  "createdAt": {
+    "$date": "2024-11-15T10:05:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737439c57a304197c9489ff"
+  },
+  "name": "Beef Stroganoff",
+  "ingredients": [
+    "Beef",
+    "Mushrooms",
+    "Onions",
+    "Sour Cream",
+    "Butter"
+  ],
+  "instructions": "Cook beef and mushrooms. Add onions and sauté. Stir in sour cream to create a creamy sauce.",
+  "category": "Russian",
+  "createdAt": {
+    "$date": "2024-11-15T10:10:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673743ab57a304197c948a01"
+  },
+  "name": "Vegetable Stir Fry",
+  "ingredients": [
+    "Broccoli",
+    "Carrots",
+    "Bell Peppers",
+    "Soy Sauce",
+    "Garlic"
+  ],
+  "instructions": "Heat oil in a pan. Stir-fry vegetables. Add soy sauce and garlic for flavor.",
+  "category": "Asian",
+  "createdAt": {
+    "$date": "2024-11-15T10:15:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673744d357a304197c948a03"
+  },
+  "name": "Margherita Pizza",
+  "ingredients": [
+    "Pizza Dough",
+    "Tomato Sauce",
+    "Mozzarella",
+    "Basil",
+    "Olive Oil"
+  ],
+  "instructions": "Spread tomato sauce on dough. Add mozzarella and basil. Bake until golden.",
+  "category": "Italian",
+  "createdAt": {
+    "$date": "2024-11-15T10:20:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737451357a304197c948a05"
+  },
+  "name": "Chicken Alfredo Pasta",
+  "ingredients": [
+    "Fettuccine",
+    "Chicken",
+    "Cream",
+    "Parmesan Cheese",
+    "Garlic"
+  ],
+  "instructions": "Cook fettuccine. Sauté chicken and garlic. Add cream and cheese, mix with pasta.",
+  "category": "Italian",
+  "createdAt": {
+    "$date": "2024-11-15T10:25:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737453757a304197c948a07"
+  },
+  "name": "Fish Tacos",
+  "ingredients": [
+    "Fish Fillets",
+    "Tortillas",
+    "Cabbage",
+    "Lime",
+    "Sour Cream"
+  ],
+  "instructions": "Grill fish. Assemble in tortillas with cabbage and sour cream. Serve with lime.",
+  "category": "Mexican",
+  "createdAt": {
+    "$date": "2024-11-15T10:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737457e57a304197c948a09"
+  },
+  "name": "Tom Yum Soup",
+  "ingredients": [
+    "Shrimp",
+    "Lemongrass",
+    "Galangal",
+    "Lime Leaves",
+    "Chili"
+  ],
+  "instructions": "Boil broth. Add lemongrass, galangal, and lime leaves. Cook shrimp and season.",
+  "category": "Asian",
+  "createdAt": {
+    "$date": "2024-11-15T10:35:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673745a257a304197c948a0b"
+  },
+  "name": "Ratatouille",
+  "ingredients": [
+    "Eggplant",
+    "Zucchini",
+    "Tomatoes",
+    "Onions",
+    "Bell Peppers"
+  ],
+  "instructions": "Slice vegetables. Layer in a pan. Bake with seasoning and olive oil.",
+  "category": "French",
+  "createdAt": {
+    "$date": "2024-11-15T10:40:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673745b257a304197c948a0d"
+  },
+  "name": "Butter Chicken",
+  "ingredients": [
+    "Chicken",
+    "Butter",
+    "Tomato Puree",
+    "Cream",
+    "Spices"
+  ],
+  "instructions": "Cook chicken in butter. Add tomato puree and spices. Stir in cream and simmer.",
+  "category": "Indian",
+  "createdAt": {
+    "$date": "2024-11-15T10:45:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737462157a304197c948a0f"
+  },
+  "name": "Beef Tacos",
+  "ingredients": [
+    "Ground Beef",
+    "Tortillas",
+    "Cheese",
+    "Lettuce",
+    "Tomatoes"
+  ],
+  "instructions": "Cook beef with spices. Assemble in tortillas with toppings.",
+  "category": "Mexican",
+  "createdAt": {
+    "$date": "2024-11-15T10:50:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737462f57a304197c948a11"
+  },
+  "name": "French Onion Soup",
+  "ingredients": [
+    "Onions",
+    "Beef Broth",
+    "Butter",
+    "Cheese",
+    "Baguette"
+  ],
+  "instructions": "Caramelize onions, add broth, and simmer. Serve with cheese-topped baguette slices.",
+  "category": "French",
+  "createdAt": {
+    "$date": "2024-11-15T10:55:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737569d57a304197c948a13"
+  },
+  "name": "Pad Thai",
+  "ingredients": [
+    "Rice Noodles",
+    "Shrimp",
+    "Eggs",
+    "Peanuts",
+    "Tamarind Sauce"
+  ],
+  "instructions": "Stir-fry noodles, shrimp, and eggs. Add tamarind sauce and garnish with peanuts.",
+  "category": "Asian",
+  "createdAt": {
+    "$date": "2024-11-15T11:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673756ca57a304197c948a16"
+  },
+  "name": "Caprese Salad",
+  "ingredients": [
+    "Tomatoes",
+    "Mozzarella",
+    "Basil",
+    "Olive Oil",
+    "Balsamic Glaze"
+  ],
+  "instructions": "Layer tomatoes and mozzarella, top with basil, drizzle with olive oil and balsamic glaze.",
+  "category": "Italian",
+  "createdAt": {
+    "$date": "2024-11-15T11:05:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737592c57a304197c948a18"
+  },
+  "name": "Lentil Curry",
+  "ingredients": [
+    "Lentils",
+    "Coconut Milk",
+    "Tomatoes",
+    "Spices",
+    "Onions"
+  ],
+  "instructions": "Cook lentils. Sauté onions and spices. Add lentils and coconut milk to make a curry.",
+  "category": "Indian",
+  "createdAt": {
+    "$date": "2024-11-15T11:10:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673786cf35c345a9e9ba08a4"
+  },
+  "name": "Shepherd's Pie",
+  "ingredients": [
+    "Ground Lamb",
+    "Potatoes",
+    "Carrots",
+    "Onions",
+    "Butter"
+  ],
+  "instructions": "Layer cooked lamb and vegetables in a dish. Top with mashed potatoes and bake.",
+  "category": "British",
+  "createdAt": {
+    "$date": "2024-11-15T11:15:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737874c35c345a9e9ba08a6"
+  },
+  "name": "Vegetable Curry",
+  "ingredients": [
+    "Mixed Vegetables",
+    "Coconut Milk",
+    "Curry Powder",
+    "Garlic",
+    "Onions"
+  ],
+  "instructions": "Sauté onions and garlic. Add vegetables, curry powder, and coconut milk. Simmer until cooked.",
+  "category": "Indian",
+  "createdAt": {
+    "$date": "2024-11-15T11:20:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787f035c345a9e9ba08a8"
+  },
+  "name": "Cobb Salad",
+  "ingredients": [
+    "Lettuce",
+    "Chicken",
+    "Avocado",
+    "Blue Cheese",
+    "Eggs"
+  ],
+  "instructions": "Arrange ingredients on a plate. Drizzle with dressing.",
+  "category": "American",
+  "createdAt": {
+    "$date": "2024-11-15T11:25:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673787ff35c345a9e9ba08aa"
+  },
+  "name": "Chicken Enchiladas",
+  "ingredients": [
+    "Chicken",
+    "Tortillas",
+    "Cheese",
+    "Tomato Sauce",
+    "Spices"
+  ],
+  "instructions": "Roll cooked chicken in tortillas. Cover with sauce and cheese, then bake.",
+  "category": "Mexican",
+  "createdAt": {
+    "$date": "2024-11-15T11:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737880d35c345a9e9ba08ac"
+  },
+  "name": "Crepes",
+  "ingredients": [
+    "Flour",
+    "Milk",
+    "Eggs",
+    "Sugar",
+    "Butter"
+  ],
+  "instructions": "Mix batter. Cook thin pancakes. Fill with desired toppings.",
+  "category": "French",
+  "createdAt": {
+    "$date": "2024-11-15T11:35:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737881d35c345a9e9ba08ae"
+  },
+  "name": "Teriyaki Chicken",
+  "ingredients": [
+    "Chicken",
+    "Soy Sauce",
+    "Sugar",
+    "Ginger",
+    "Garlic"
+  ],
+  "instructions": "Marinate chicken in teriyaki sauce. Grill or sauté until cooked.",
+  "category": "Asian",
+  "createdAt": {
+    "$date": "2024-11-15T11:40:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737885f35c345a9e9ba08b0"
+  },
+  "name": "Bruschetta",
+  "ingredients": [
+    "Baguette",
+    "Tomatoes",
+    "Basil",
+    "Olive Oil",
+    "Garlic"
+  ],
+  "instructions": "Toast baguette slices. Top with a mix of diced tomatoes, basil, olive oil, and garlic.",
+  "category": "Italian",
+  "createdAt": {
+    "$date": "2024-11-15T11:45:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737887435c345a9e9ba08b2"
+  },
+  "name": "Pumpkin Soup",
+  "ingredients": [
+    "Pumpkin",
+    "Onions",
+    "Garlic",
+    "Cream",
+    "Spices"
+  ],
+  "instructions": "Cook pumpkin with onions and garlic. Blend with cream to a smooth consistency.",
+  "category": "Soup",
+  "createdAt": {
+    "$date": "2024-11-15T11:50:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737889935c345a9e9ba08b4"
+  },
+  "name": "Chili Con Carne",
+  "ingredients": [
+    "Ground Beef",
+    "Beans",
+    "Tomatoes",
+    "Chili Powder",
+    "Onions"
+  ],
+  "instructions": "Cook beef with onions and spices. Add beans and tomatoes. Simmer until thickened.",
+  "category": "Mexican",
+  "createdAt": {
+    "$date": "2024-11-15T11:55:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673788a635c345a9e9ba08b6"
+  },
+  "name": "Banana Pancakes",
+  "ingredients": [
+    "Bananas",
+    "Flour",
+    "Eggs",
+    "Milk",
+    "Sugar"
+  ],
+  "instructions": "Mash bananas. Mix with other ingredients to form batter. Cook pancakes in a pan.",
+  "category": "Breakfast",
+  "createdAt": {
+    "$date": "2024-11-15T12:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673788e535c345a9e9ba08b8"
+  },
+  "name": "Eggplant Parmesan",
+  "ingredients": [
+    "Eggplant",
+    "Tomato Sauce",
+    "Parmesan Cheese",
+    "Breadcrumbs",
+    "Mozzarella"
+  ],
+  "instructions": "Slice eggplant, coat in breadcrumbs, bake. Layer with tomato sauce and cheese, then bake again.",
+  "category": "Italian",
+  "createdAt": {
+    "$date": "2024-11-15T12:05:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673788fc35c345a9e9ba08ba"
+  },
+  "name": "Miso Soup",
+  "ingredients": [
+    "Miso Paste",
+    "Tofu",
+    "Seaweed",
+    "Scallions",
+    "Dashi"
+  ],
+  "instructions": "Boil dashi. Dissolve miso paste. Add tofu, seaweed, and scallions.",
+  "category": "Asian",
+  "createdAt": {
+    "$date": "2024-11-15T12:10:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737890c35c345a9e9ba08bc"
+  },
+  "name": "Margherita Pizza",
+  "ingredients": [
+    "Pizza Dough",
+    "Tomato Sauce",
+    "Mozzarella",
+    "Basil",
+    "Olive Oil"
+  ],
+  "instructions": "Spread tomato sauce on dough, top with mozzarella and basil. Bake until crust is golden.",
+  "category": "Italian",
+  "createdAt": {
+    "$date": "2024-11-15T12:15:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737893235c345a9e9ba08be"
+  },
+  "name": "Chicken Katsu",
+  "ingredients": [
+    "Chicken Breast",
+    "Panko Breadcrumbs",
+    "Eggs",
+    "Flour",
+    "Tonkatsu Sauce"
+  ],
+  "instructions": "Coat chicken in flour, eggs, and breadcrumbs. Fry until golden. Serve with tonkatsu sauce.",
+  "category": "Asian",
+  "createdAt": {
+    "$date": "2024-11-15T12:20:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737893d35c345a9e9ba08c0"
+  },
+  "name": "Greek Salad",
+  "ingredients": [
+    "Tomatoes",
+    "Cucumbers",
+    "Feta Cheese",
+    "Olives",
+    "Red Onion"
+  ],
+  "instructions": "Chop vegetables. Toss with olive oil, lemon juice, and oregano.",
+  "category": "Mediterranean",
+  "createdAt": {
+    "$date": "2024-11-15T12:25:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737898535c345a9e9ba08c2"
+  },
+  "name": "Beef Stroganoff",
+  "ingredients": [
+    "Beef",
+    "Mushrooms",
+    "Onions",
+    "Sour Cream",
+    "Egg Noodles"
+  ],
+  "instructions": "Sauté beef and vegetables. Add sour cream sauce. Serve over egg noodles.",
+  "category": "Russian",
+  "createdAt": {
+    "$date": "2024-11-15T12:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6737899135c345a9e9ba08c4"
+  },
+  "name": "Shakshuka",
+  "ingredients": [
+    "Tomatoes",
+    "Eggs",
+    "Bell Peppers",
+    "Onions",
+    "Spices"
+  ],
+  "instructions": "Cook vegetables and spices in a skillet. Crack eggs into the mixture and cover until set.",
+  "category": "Middle Eastern",
+  "createdAt": {
+    "$date": "2024-11-15T12:35:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673789a335c345a9e9ba08c6"
+  },
+  "name": "Chicken Caesar Salad",
+  "ingredients": [
+    "Romaine Lettuce",
+    "Grilled Chicken",
+    "Croutons",
+    "Parmesan",
+    "Caesar Dressing"
+  ],
+  "instructions": "Toss lettuce, chicken, croutons, and dressing. Top with Parmesan.",
+  "category": "American",
+  "createdAt": {
+    "$date": "2024-11-15T12:40:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673789b335c345a9e9ba08c8"
+  },
+  "name": "Biryani",
+  "ingredients": [
+    "Rice",
+    "Chicken",
+    "Spices",
+    "Yogurt",
+    "Fried Onions"
+  ],
+  "instructions": "Cook chicken with spices. Layer with cooked rice and steam together.",
+  "category": "Indian",
+  "createdAt": {
+    "$date": "2024-11-15T12:45:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673789bf35c345a9e9ba08ca"
+  },
+  "name": "Pumpkin Risotto",
+  "ingredients": [
+    "Rice",
+    "Pumpkin",
+    "Parmesan",
+    "Onions",
+    "Broth"
+  ],
+  "instructions": "Cook rice with onions and broth. Stir in roasted pumpkin and Parmesan.",
+  "category": "Italian",
+  "createdAt": {
+    "$date": "2024-11-15T12:50:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673789d035c345a9e9ba08cc"
+  },
+  "name": "Tuna Sushi Rolls",
+  "ingredients": [
+    "Sushi Rice",
+    "Nori",
+    "Tuna",
+    "Soy Sauce",
+    "Wasabi"
+  ],
+  "instructions": "Spread rice on nori. Add tuna, roll tightly, and slice. Serve with soy sauce and wasabi.",
+  "category": "Japanese",
+  "createdAt": {
+    "$date": "2024-11-15T12:55:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673789dc35c345a9e9ba08ce"
+  },
+  "name": "Falafel Wrap",
+  "ingredients": [
+    "Falafel",
+    "Pita Bread",
+    "Lettuce",
+    "Tomatoes",
+    "Tahini Sauce"
+  ],
+  "instructions": "Fill pita bread with falafel, lettuce, tomatoes, and tahini sauce.",
+  "category": "Middle Eastern",
+  "createdAt": {
+    "$date": "2024-11-15T13:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "673789f035c345a9e9ba08d0"
+  },
+  "name": "Cranberry Sauce",
+  "ingredients": [
+    "Cranberries",
+    "Sugar",
+    "Orange Juice",
+    "Water"
+  ],
+  "instructions": "Cook cranberries with sugar, orange juice, and water until thickened.",
+  "category": "American",
+  "createdAt": {
+    "$date": "2024-11-15T13:05:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378a0435c345a9e9ba08d2"
+  },
+  "name": "Pesto Pasta",
+  "ingredients": [
+    "Pasta",
+    "Basil",
+    "Parmesan",
+    "Pine Nuts",
+    "Olive Oil"
+  ],
+  "instructions": "Blend basil, Parmesan, pine nuts, and olive oil to make pesto. Toss with cooked pasta.",
+  "category": "Italian",
+  "createdAt": {
+    "$date": "2024-11-15T13:10:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378a9035c345a9e9ba08d4"
+  },
+  "name": "Clam Chowder",
+  "ingredients": [
+    "Clams",
+    "Potatoes",
+    "Onions",
+    "Cream",
+    "Butter"
+  ],
+  "instructions": "Sauté onions, add clams and potatoes. Simmer with cream until thick.",
+  "category": "American",
+  "createdAt": {
+    "$date": "2024-11-15T13:15:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378a9f35c345a9e9ba08d6"
+  },
+  "name": "Ramen Noodles",
+  "ingredients": [
+    "Ramen Noodles",
+    "Broth",
+    "Egg",
+    "Scallions",
+    "Pork"
+  ],
+  "instructions": "Boil broth. Add cooked noodles, pork slices, and a soft-boiled egg. Garnish with scallions.",
+  "category": "Asian",
+  "createdAt": {
+    "$date": "2024-11-15T13:20:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378aac35c345a9e9ba08d8"
+  },
+  "name": "Spinach Quiche",
+  "ingredients": [
+    "Spinach",
+    "Eggs",
+    "Cheese",
+    "Milk",
+    "Pie Crust"
+  ],
+  "instructions": "Mix spinach, eggs, cheese, and milk. Pour into pie crust and bake.",
+  "category": "French",
+  "createdAt": {
+    "$date": "2024-11-15T13:25:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378b4035c345a9e9ba08da"
+  },
+  "name": "Lamb Kebabs",
+  "ingredients": [
+    "Lamb",
+    "Garlic",
+    "Onions",
+    "Spices",
+    "Skewers"
+  ],
+  "instructions": "Season lamb. Thread onto skewers and grill.",
+  "category": "Middle Eastern",
+  "createdAt": {
+    "$date": "2024-11-15T13:30:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378b4d35c345a9e9ba08dc"
+  },
+  "name": "Vegetable Stir-Fry",
+  "ingredients": [
+    "Mixed Vegetables",
+    "Soy Sauce",
+    "Garlic",
+    "Ginger",
+    "Sesame Oil"
+  ],
+  "instructions": "Stir-fry vegetables with garlic, ginger, and soy sauce. Drizzle with sesame oil before serving.",
+  "category": "Asian",
+  "createdAt": {
+    "$date": "2024-11-15T13:35:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378b5835c345a9e9ba08de"
+  },
+  "name": "Stuffed Bell Peppers",
+  "ingredients": [
+    "Bell Peppers",
+    "Rice",
+    "Ground Beef",
+    "Tomatoes",
+    "Cheese"
+  ],
+  "instructions": "Hollow peppers. Fill with rice, beef, and tomato mixture. Top with cheese and bake.",
+  "category": "American",
+  "createdAt": {
+    "$date": "2024-11-15T13:40:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378bcf35c345a9e9ba08e0"
+  },
+  "name": "Shepherd's Pie",
+  "ingredients": [
+    "Ground Lamb",
+    "Mashed Potatoes",
+    "Carrots",
+    "Peas",
+    "Gravy"
+  ],
+  "instructions": "Cook lamb with carrots and peas. Layer with mashed potatoes and bake until golden.",
+  "category": "British",
+  "createdAt": {
+    "$date": "2024-11-15T13:45:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378bdb35c345a9e9ba08e2"
+  },
+  "name": "Thai Green Curry",
+  "ingredients": [
+    "Green Curry Paste",
+    "Coconut Milk",
+    "Chicken",
+    "Bamboo Shoots",
+    "Basil"
+  ],
+  "instructions": "Sauté curry paste. Add coconut milk, chicken, and vegetables. Simmer until cooked.",
+  "category": "Thai",
+  "createdAt": {
+    "$date": "2024-11-15T13:50:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378bea35c345a9e9ba08e4"
+  },
+  "name": "Apple Crumble",
+  "ingredients": [
+    "Apples",
+    "Flour",
+    "Butter",
+    "Sugar",
+    "Cinnamon"
+  ],
+  "instructions": "Slice apples and layer in a dish. Top with crumble mixture and bake.",
+  "category": "Dessert",
+  "createdAt": {
+    "$date": "2024-11-15T13:55:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378c0135c345a9e9ba08e6"
+  },
+  "name": "Stuffed Mushrooms",
+  "ingredients": [
+    "Mushrooms",
+    "Breadcrumbs",
+    "Cheese",
+    "Garlic",
+    "Parsley"
+  ],
+  "instructions": "Hollow mushrooms, stuff with breadcrumb mixture, and bake until golden.",
+  "category": "Appetizer",
+  "createdAt": {
+    "$date": "2024-11-15T14:00:00.000Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67378c0d35c345a9e9ba08e8"
+  },
+  "name": "Vegetable Lasagna",
+  "ingredients": [
+    "Lasagna Sheets",
+    "Tomato Sauce",
+    "Ricotta Cheese",
+    "Spinach",
+    "Mozzarella"
+  ],
+  "instructions": "Layer lasagna sheets with tomato sauce, ricotta, and spinach. Top with mozzarella and bake.",
+  "category": "Italian",
+  "createdAt": {
+    "$date": "2024-11-15T14:05:00.000Z"
+  },
+  "__v": 0
+}]
